@@ -1,7 +1,6 @@
-please make sure to fill in the env.default  and rename to .env for the node.js to use
+Step to use the project:
 
-
-1. download the module and please extract it to the root level of the folder
-2. create the .env file using the template from env.default
-3. running the node.js page
+1. Download the entire module 
+2. create the .env file using the template file name (env.default) and then rename to .env
+3. runnning the node js page using the Node command
 
