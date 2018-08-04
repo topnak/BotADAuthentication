@@ -8,8 +8,7 @@ require('dotenv').config(); //to read in the .env variable for authentication pu
 const envx = require("envx");  // read environment
 
 const restify = require('restify');
-//const builder = require('./core/'); //alternative can use require('botbuilder');
-const builder = require('botbuilder'); //alternative can use require('botbuilder');
+const builder = require('./core/'); //alternative can use require('botbuilder');
 const https = require('https');
 const request = require('request');
 
